@@ -1,0 +1,44 @@
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Roboto", sans-serif;
+  color: black;
+}
+
+a:link,
+a:visited {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  cursor: pointer;
+}
+
+a:link:active,
+a:visited:active {
+  color: black;
+}
+
+p {
+  font-size: 18px;
+  color: black;
+}
+
+.icone {
+  width: 25px;
+  height: 25px;
+}
+
+.gitButton {
+  text-align: center;
+  width: 300px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 16px;
+  background: #000000;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
